@@ -1,0 +1,2 @@
+jupyterlab-hide-cells
+jupyterlab_autorun_cells
